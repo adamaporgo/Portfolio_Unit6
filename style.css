@@ -1,6 +1,6 @@
     header {
       text-align: center;
-      background: url("images/banner.jpg");
+      background: url("https://s-media-cache-ak0.pinimg.com/736x/93/95/6f/93956f21dc9ca6ae7dbba3e2fecd6940.jpg");
       background-size: cover;
       color: white;
     }
@@ -11,9 +11,10 @@
       font-size: 70px;
     }
     img {
-      margin: 40px 0px 0px 0px;
-      border: 7px solid white;
-      border-radius: 20px;
+      margin: 50px 0 10px 0;
+      border: 0px solid white;
+      border-radius: 1000px;
+      width: 100%;
     }
     ul {
       padding: 10px;
